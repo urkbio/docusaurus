@@ -1,0 +1,51 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+docusaurus:
+  label: Docusaurus
+  permalink: /docusaurus
+  description: Docusaurus tag description
+
+hola:
+  label: Hola
+  permalink: /hola
+  description: Hola tag description
+
+DNS:
+  label: DNS
+  permalink: /dns
+
+信息茧房:
+  label: 信息茧房
+  permalink: /信息茧房
+
+家庭:
+  label: 家庭
+  permalink: /家庭
+
+怿梦:
+  label: 怿梦
+  permalink: /怿梦
+
+感情:
+  label: 感情
+  permalink: /感情
+
+理想主义:
+  label: 理想主义
+  permalink: /理想主义
+
+许嵩:
+  label: 许嵩
+  permalink: /许嵩
+
+音乐:
+  label: 音乐
+  permalink: /音乐
